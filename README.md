@@ -36,3 +36,26 @@ list of high-risk learners, sorted by risk score (highest first).
 3. Commit and push the updated `README.md`.
 4. If more than 20 learners are flagged as high risk, open a GitHub issue with
    the `risk-alert` label summarising the alert.
+
+## 每日风险预警
+
+- **日期**: 2026-08-13
+- **高风险学员总数**: 52
+- **按地区分布**:
+  - 南非 (South Africa): 30
+  - 埃及 (Egypt): 22
+
+### Top 10 高风险学员
+
+| learner_id | region | course_id | risk_score |
+|------------|--------|-----------|------------|
+| L13805 | Egypt | CRS-004 | 0.7420 |
+| L14443 | Egypt | CRS-006 | 0.7380 |
+| L13795 | South Africa | CRS-012 | 0.6908 |
+| L11603 | Egypt | CRS-014 | 0.6708 |
+| L11091 | South Africa | CRS-008 | 0.6592 |
+| L12446 | South Africa | CRS-005 | 0.6259 |
+| L13570 | South Africa | CRS-010 | 0.6134 |
+| L11989 | Egypt | CRS-002 | 0.6095 |
+| L14851 | South Africa | CRS-008 | 0.6039 |
+| L14536 | Egypt | CRS-011 | 0.6033 |
